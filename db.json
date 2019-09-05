@@ -11,7 +11,7 @@
 	{
       "id": 2,
       "codigo": "20"
-	  "desc": "Azucar Est ndar"
+	  "desc": "Azucar EstÂ ndar"
 	  "cantidad": "3"
 	  "precio": "23.50"
 	  "costo": "16.00"
@@ -19,7 +19,7 @@
 	{
       "id": 3,
       "codigo": "30"
-	  "desc": "T‚ Arizona Miel"
+	  "desc": "Tâ€š Arizona Miel"
 	  "cantidad": "12"
 	  "precio": "12.00"
 	  "costo": "9.00"
@@ -35,7 +35,7 @@
 	{
       "id": 5,
       "codigo": "50"
-	  "desc": "Caf‚ Marino 800 Grs"
+	  "desc": "Cafâ€š Marino 800 Grs"
 	  "cantidad": "1"
 	  "precio": "198.50"
 	  "costo": "145.40"
