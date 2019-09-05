@@ -1,14 +1,14 @@
 {
 	"articulo": [
 		{
-			"codigo": 10,
+			"id": 10,
 			"desc": "Atun en Lata",
 			"cantidad": "5",
 			"precio": "13.50",
 			"costo": "8.00"
 		},
 		{
-			"codigo": 20,
+			"id": 20,
 			"desc": "Azucar Estandar",
 			"cantidad": "3",
 			"precio": "23.50",
@@ -22,14 +22,14 @@
 			"costo": "9.00"
 		},
 		{
-			"codigo": 40,
+			"id": 40,
 			"desc": "Servilletas Delsey",
 			"cantidad": "8",
 			"precio": "35.99",
 			"costo": "27.68"
 		},
 		{
-			"codigo": 50,
+			"id": 50,
 			"desc": "Caf‚ Marino 800 Grs",
 			"cantidad": "1",
 			"precio": "198.50",
